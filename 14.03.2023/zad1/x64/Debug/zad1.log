@@ -1,0 +1,4 @@
+﻿  zad1.cpp
+C:\Users\borek\source\repos\programowanie obiektowe\14.03.2023\zad1\zad1.cpp(27,16): warning C4244: "return": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\borek\source\repos\programowanie obiektowe\14.03.2023\zad1\zad1.cpp(32,16): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  zad1.vcxproj -> C:\Users\borek\source\repos\programowanie obiektowe\14.03.2023\zad1\x64\Debug\zad1.exe
