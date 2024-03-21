@@ -1,0 +1,6 @@
+Imie: Adam
+Nazwisko: Borek
+Numer telefonu: 111222333
+Imie: Tomasz
+Nazwisko: Borkowski
+Numer telefonu: 123456789
