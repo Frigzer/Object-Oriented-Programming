@@ -1,0 +1,64 @@
+﻿  zad4.cpp
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(27,55): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(26): message : podczas kompilowania funkcji składowej „T Kula<T>::Objetosc(void)” klasy klasa szablon
+          with
+          [
+              T=float
+          ]
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(39): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „T Kula<T>::Objetosc(void)” funkcji szablon
+          with
+          [
+              T=float
+          ]
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(35): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „Kula<float>” klasy klasa szablon
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(22,35): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(21): message : podczas kompilowania funkcji składowej „T Kula<T>::PolePowierzchni(void)” klasy klasa szablon
+          with
+          [
+              T=float
+          ]
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(39): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „T Kula<T>::PolePowierzchni(void)” funkcji szablon
+          with
+          [
+              T=float
+          ]
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(27,55): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(26): message : podczas kompilowania funkcji składowej „T Kula<T>::Objetosc(void)” klasy klasa szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(37): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „T Kula<T>::Objetosc(void)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(33): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „Kula<int>” klasy klasa szablon
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(22,35): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(21): message : podczas kompilowania funkcji składowej „T Kula<T>::PolePowierzchni(void)” klasy klasa szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\zad4\zad4.cpp(37): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „T Kula<T>::PolePowierzchni(void)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+  zad4.vcxproj -> C:\Users\borek\source\repos\programowanie obiektowe\09.05.2023\zad4\x64\Debug\zad4.exe

@@ -1,3 +1,0 @@
-Imiê: Adam
-Nazwisko: Borek
-Numer telefonu: 111222333
